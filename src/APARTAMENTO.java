@@ -12,11 +12,11 @@ this (0,0,"");
 
 }
 
-APARTAMENTO( int num, int quartos, String tipocup){
+APARTAMENTO( int num, int quartos, String tipoOcup){
     
     numero = num;
     qtdequartos = quartos;
-    tipoOcupacao = tipocup;
+    tipoOcupacao = tipoOcup;
     
 }
  
